@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhisekh+Yadav+%F0%9F%91%8B;Building+full-stack+products+%F0%9F%9A%80;Training+models+%26+shipping+AI+%F0%9F%A4%96;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhishek+Yadav+%F0%9F%91%8B;Building+full-stack+products+%F0%9F%9A%80;Training+models+%26+shipping+AI+%F0%9F%A4%96;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,9 +22,9 @@
 ## 🧠 About Me
 
 ```python
-class AbhisekhYadav:
+class AbhishekYadav:
     def __init__(self):
-        self.name       = "Abhisekh Yadav"
+        self.name       = "Abhishek Yadav"
         self.role       = ["Full-Stack Developer", "AI/ML Engineer"]
         self.stack      = ["Python", "TypeScript", "React", "Next.js", "Java", "Rust", "C/C++"]
         self.ai_stack   = ["PyTorch", "TensorFlow", "HuggingFace", "LangChain", "FastAPI"]
@@ -35,7 +35,7 @@ class AbhisekhYadav:
     def say_hi(self):
         print("Hey! Let's build something cool together 🚀")
 
-me = AbhisekhYadav()
+me = AbhishekYadav()
 me.say_hi()
 ```
 
