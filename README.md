@@ -22,9 +22,9 @@
 ## 🧠 About Me
 
 ```python
-class ay227997:
+class AbhisekhYadav:
     def __init__(self):
-        self.name       = "ay227997"
+        self.name       = "Abhisekh Yadav"
         self.role       = ["Full-Stack Developer", "AI/ML Engineer"]
         self.stack      = ["Python", "TypeScript", "React", "Next.js", "Java", "Rust", "C/C++"]
         self.ai_stack   = ["PyTorch", "TensorFlow", "HuggingFace", "LangChain", "FastAPI"]
@@ -35,7 +35,7 @@ class ay227997:
     def say_hi(self):
         print("Hey! Let's build something cool together 🚀")
 
-me = ay227997()
+me = AbhisekhYadav()
 me.say_hi()
 ```
 
